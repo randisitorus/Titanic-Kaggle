@@ -1,4 +1,7 @@
 # Titanic-Kaggle
+
+## https://www.kaggle.com/c/titanic
+
 ## The data has 12 features
 
     Survived = Dependent feature
